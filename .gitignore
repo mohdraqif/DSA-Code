@@ -1,0 +1,7 @@
+README.md
+.vscode/settings.json
+bin/PrimeOrNotOptimised.class
+bin/ReverseTheNumber.class
+bin/LargestInArray.class
+bin/LinearSearch.class
+bin/PrimeInRange.class
